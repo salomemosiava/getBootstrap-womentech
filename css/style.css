@@ -1,0 +1,46 @@
+header {
+    height: 100vh;
+    background-image: url(../img/Untitled-1.png);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card:hover {
+    box-shadow: 0px 15px 15px  rgba(0, 0, 0, 0.07);
+  }
+.btn2 {
+    padding: 12px 44px;
+    font-family: 'Montserrat', sans-serif;
+    font-stretch:expanded;
+    border-radius: 2.5rem;
+    font-size: 14px;
+}
+
+.c-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22;
+    font-stretch:expanded;
+
+}
+
+.dropshadow {
+    box-shadow: 0px 15px 15px  rgba(0, 0, 0, 0.07);
+    border: none;
+}
+
+.content {
+    font-family: 'Montserrat', sans-serif;
+    height: 160px;
+    font-size: 18px;
+}
+
+.mybtn {
+    padding: 22px 55px;
+    background-color: #A80E0E;
+    border: none;
+    border-radius: 90px;
+}
+.line {
+    width: 50px;
+    background-color: #FFAA00;
+    height: 3px;
+}
